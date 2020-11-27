@@ -1,0 +1,2 @@
+# DiabetesPrediction
+Using KnearestNeighbor classification predicting diabetes
